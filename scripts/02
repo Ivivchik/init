@@ -1,0 +1,1 @@
+userdel -f -r $1
