@@ -1,1 +1,1 @@
-su [name_user]@[ip] -p 2200
+ssh [name_user]@[ip] -p 2200

@@ -1,3 +1,2 @@
 # Путь к файлу
 cat /etc/resolv.conf
-var/run/resolv.conf

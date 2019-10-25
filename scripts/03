@@ -1,0 +1,2 @@
+read -p "Input username: "
+echo "\033[0;33m$(ldapsearch uid=$REPLY | grep 'mobile')\033[0;33m"
